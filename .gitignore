@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+.npm
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Build outputs
+.next/
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Prisma
+*.db
+*.db-journal
+
+# Generated PDFs
+generated/
