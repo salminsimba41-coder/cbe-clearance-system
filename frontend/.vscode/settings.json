@@ -1,0 +1,14 @@
+{
+  "js/ts.preferences.includePackageJsonAutoImports": "off",
+  "js/ts.suggest.autoImports": false,
+  "js/ts.tsserver.automaticTypeAcquisition.enabled": false,
+  "js/ts.tsserver.experimental.enableProjectDiagnostics": false,
+  "js/ts.tsserver.maxMemory": 4096,
+  "js/ts.tsserver.watchOptions": {
+    "excludeDirectories": ["node_modules"]
+  },
+  "js/ts.workspaceSymbols.scope": "allOpenProjects",
+  "js/ts.tsserver.useSeparateSyntaxServer": false,
+  "js/ts.tsserver.tracing.enabled": false,
+  "next.js.turbopack.root": true
+}
